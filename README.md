@@ -17,7 +17,7 @@ Tranfer ETH from one account to other using web3.js and Ganache
 3. Connect to the ganache blockchain using web3
 4. Write transfer function (refer `main.component.js`) 
 
-.env
+### .env
 you need to create one file in your root directory name that(.env) that file contain information about the account
 REACT_APP_ACCOUNT=Account's Address
 REACT_APP_PRIVATE_KEY=Account's Private Key
